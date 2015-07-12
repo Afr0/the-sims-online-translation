@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^Семья %s
+Средства: %s
+Друзья: %d^
+
+^Стоимость: %s
+Выберите или создайте семью чтобы вселиться в дом.^
+
+^Стоимость: %s
+Семья %s имеет только %s.  Она не может позволить себе дом.^
+
+^Стоимость: %s
+Это может быть дом твоей мечты!  Если вы его купите, у семьи останется %s.^
+
+^Стоимость: %s
+Семья %s имеет только %s.  Она не может позволить себе участок.^
+
+^Стоимость: %s
+Это может быть участок твоей мечты!  Если вы его купите, у семьи останется %s.^
+
+^To learn house to play the game...^
+
+^%s Sim Lane^
+
+^Нельзя поселиться в дом обучения!^
+
+^Семья %s
+Средства: %s
+Друзья: %d
+Нажмите чтобы поселить семью.^
+
+^Нажмите чтобы снести дом.^
+
+^Некого поселять или нечего сносить.^
+
+^Вы не можете снести дом обучения.^
+
+^Добро пожаловать в дом %s!^
+^Connect to house "%s" on "%s". There %s in this house.^
+^Welcome home %s!  Your house is already online on "%s".  There %s in this house.^
+^is 1 person^
+^are %d people^
